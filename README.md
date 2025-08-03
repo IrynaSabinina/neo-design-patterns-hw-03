@@ -43,9 +43,13 @@ npm install
 
 Запустити платіжний сценарій з вибором провайдера через параметр командного рядка:
 
+
 npx ts-node src/main.ts stripe
+
 npx ts-node src/main.ts paypal
+
 npx ts-node src/main.ts apple
+
 
 ## Приклад виводу
 ## Для stripe:
